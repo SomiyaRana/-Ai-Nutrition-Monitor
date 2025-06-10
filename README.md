@@ -8,11 +8,9 @@ Instead of guessing or searching manually, just snap a pic and let Nutrition Mon
 Whether you're on a fitness journey or just curious, this app makes nutrition tracking effortless and fun.
 
 🚀 Key Features
-✨ Image Upload
-Upload an image of your meal — home-cooked, packaged, or from a restaurant.
+✨ Image Upload – Upload an image of your meal — home-cooked, packaged, or from a restaurant.
 
-📊 Nutritional Analysis
-Get detailed breakdowns including:
+📊 Nutritional Analysis – Get detailed breakdowns including:
 
 Calories 🔥
 
@@ -22,11 +20,9 @@ Proteins 🍗
 
 Fats 🥑
 
-🧠 Powered by Gemmini API
-Accurate, real-time food recognition and nutrient extraction using cutting-edge AI.
+🧠 Powered by Gemmini API – Real-time AI-driven food recognition.
 
-🖥️ User-Friendly Interface
-Minimalist, fast, and intuitive — even your grandma could use it!
+🖥️ User-Friendly Interface – Minimalist and intuitive interface.
 
 🧰 Tech Stack
 Layer	Technology
@@ -37,22 +33,23 @@ Layer	Technology
 📸 How It Works
 🔼 Upload your food image via the app.
 
-🧠 Behind the scenes, the image is processed using the Gemmini API.
+🧠 Image is processed using the Gemmini API.
 
-📉 Instantly receive a nutritional breakdown.
+📉 Receive a nutritional breakdown.
 
-✅ Make smarter dietary decisions, instantly!
+✅ Make smarter dietary decisions instantly!
 
 🧪 Use Cases
-🏋️‍♂️ Fitness tracking
+🏋️‍♂️ Fitness Tracking
 
-🧘‍♀️ Diet planning
+🧘‍♀️ Diet Planning
 
-📚 Educational demos
+📚 Educational Demos
 
-🍽 Restaurant calorie checks
+🍽️ Restaurant Calorie Checks
 
-👨‍👩‍👧 Family meal monitoring
+👨‍👩‍👧 Family Meal Monitoring
+
 
 💡 Future Scope
 📱 Mobile version with camera integration
@@ -63,7 +60,7 @@ Layer	Technology
 
 🌍 Multilingual support
 
-🤝 Contributing
-We welcome contributions! Whether it's improving the UI, adding new features, or enhancing performance — fork it, clone it, and make it better!
-Feel free to create issues or submit pull requests.
 
+🤝 Contributing
+We welcome contributions! Whether it's improving the UI, adding features, or optimizing performance — fork it, clone it, and help improve it.
+Feel free to create issues or submit pull requests.
